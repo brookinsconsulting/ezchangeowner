@@ -1,4 +1,4 @@
-Owner extension for eZ publish
+eZ Change Owner extension for eZ Publish
 
 Copyright (C) 2006 SCK-CEN
 Written by Kristof Coomans ( http://blog.kristofcoomans.be )
