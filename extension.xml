@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <software>
      <metadata>
-         <name>Owner</name>
-         <version>[EXTENSION_VERSION]</version>
-         <copyright>Copyright (C) 2008-2011 Kristof Coomans</copyright>
-         <license>[EXTENSION_LICENSE]</license>
-         <info_url>https://github.com/cyberwolf/owner</info_url>
+         <name>eZ Change Owner</name>
+         <version>0.1.0</version>
+         <copyright>Copyright (C) 2008-2011 Kristof Coomans and 1999-2019 Brookins Consulting</copyright>
+         <license>GPLv2</license>
+         <info_url>https://github.com/brookinsconsulting/ezchangeowner</info_url>
+         <info_url>https://packagist.org/packages/brookinsconsulting/ezchangeowner</package_url>
      </metadata>
  </software>

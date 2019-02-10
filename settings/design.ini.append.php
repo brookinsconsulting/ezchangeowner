@@ -3,7 +3,7 @@
 /*
 
 [ExtensionSettings]
-DesignExtensions[]=owner
+DesignExtensions[]=ezchangeowner
 
 [StylesheetSettings]
 BackendCSSFileList[]=owner.css

@@ -1,0 +1,29 @@
+{
+    "name": "brookinsconsulting/ezchangeowner",
+    "description": "eZ Publish Legacy extension which provides a simple solution to changing a content object owner user relation property. Great for smart developers!",
+    "type": "ezpublish-legacy-extension",
+    "keywords": [ "eZ Publish", "eZ Publish Legacy", "eZ Publish Platform", "owner", "ezchangeowner", "extension", "module" ],
+    "homepage": "https://github.com/brookinsconsulting/ezchangeowner",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name" : "Brookins Consulting",
+            "homepage": "http://brookinsconsulting.com",
+            "email": "info@brookinsconsulting.com",
+            "role": "Developer"
+        },
+        {
+            "name" : "Kristof Coomans",
+            "homepage": "https://github.com/cyberwolf",
+            "role": "Author"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.0.0",
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "ezchangeowner"
+    }
+}
